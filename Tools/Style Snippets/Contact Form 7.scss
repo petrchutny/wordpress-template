@@ -1,0 +1,39 @@
+form p {
+  overflow: hidden;
+  input[type=text],
+  input[type=email] {
+    width: 80%;
+  }
+  textarea {
+    width: 100%;
+  }
+  input, textarea {
+    padding: 12px;
+    border: solid 1px #000;
+    border-radius: 10px;
+  }
+  input[type=email], textarea {
+    margin-top: 16px;
+  }
+  input[type=submit] {
+    float: right;
+    margin-top: 6px;
+    color: white;
+    background: #000;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+  }
+  // Validation
+  span.wpcf7-not-valid-tip {
+    font-size: 15px;
+    color: #D82A2A;
+  }
+}
+div.wpcf7-validation-errors {
+  padding: 12px 15px;
+  margin: 20px 0 0 0;
+  font: 16px "Open Sans", sans-serif;
+  border-radius: 10px;
+  border-color: none;
+  background: #FBE864;
+}

@@ -1,0 +1,28 @@
+{
+  "name": "wordpress-template",
+  "version": "1.0.0",
+  "description": "A wordpress starter template made by Petr Chutný",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/petrchutny/wordpress-template.git"
+  },
+  "keywords": [
+    "wordpress",
+    "template",
+    "codekit",
+    "npm"
+  ],
+  "author": "Petr Chutný",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/petrchutny/wordpress-template/issues"
+  },
+  "homepage": "https://github.com/petrchutny/wordpress-template#readme",
+  "devDependencies": {
+    "svg-sprite-generator": ""
+  }
+}
