@@ -11,6 +11,36 @@
 }
 @media only screen and (max-width: 600px) {
   // Responsive menu
+  #header button.mobile-menu {
+    position: relative;
+    display: block;
+    padding: 0;
+    position: fixed;
+    width: 54px;
+    height: 54px;
+    right: 25px;
+    top: 68px;
+    z-index: 30;
+    border: none;
+    background: transparent;
+    svg {
+      position: absolute;
+    }
+    // Button background
+    svg:first-child {
+      top: 0;
+      left: 0;
+      fill: #2A3D4A;
+    }
+    // Button foreground
+    svg:last-child {
+      fill: #FFF;
+      top: 5%;
+      left: 5%;
+      width: 90%;
+      height: 90%;
+    }
+  }
   .mobile-menu-overlay {
     display: none;
     position: fixed;

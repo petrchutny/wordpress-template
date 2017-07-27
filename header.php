@@ -2,7 +2,7 @@
 <html>
 <head>
 	<meta charset="<?php bloginfo('charset'); ?>">
-	<title><?php wp_title( '|', true, 'right' ); bloginfo('name'); ?></title>
+	<title><?php wp_title('|', true, 'right'); bloginfo('name'); ?></title>
 	<meta name="description" content="<?php bloginfo('description'); ?>" />
 	<meta name="Copyright" content="Copyright &copy; <?php bloginfo('name'); ?> <?php echo date('Y'); ?>. All Rights Reserved.">
 	<!-- Setup Google Analytics! -->
@@ -24,4 +24,6 @@
 		<div class="close-cross"></div>
 	</div>
 	<!-- Show the menu that we've registered -->
-	<?php wp_nav_menu( array( 'theme_location' => 'header-menu' ) ); ?>
+	<header id="header">
+		<?php wp_nav_menu(array( 'theme_location' => 'header-menu', 'container' => 'nav' )); ?>
+	</header>

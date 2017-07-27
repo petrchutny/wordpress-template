@@ -1,0 +1,2 @@
+jQuery(document).ready(function($){if($("button.mobile-menu").click(function(){$(".mobile-menu-overlay").show(),$(".mobile-menu-overlay .close-cross").click(function(){$(".mobile-menu-overlay").hide()})}),$(".header").hasClass("white")){var o=$("button.mobile-menu svg");$(window).scroll(function(){$(window).scrollTop()>$(".header").height()-70?o.css({fill:"#000000",color:"#FFFFFF"}):o.css({fill:"#FFFFFF",color:"transparent"})})}});
+//# sourceMappingURL=./scripts-min.js.map

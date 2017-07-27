@@ -7,12 +7,12 @@
 		"uuidString": "60C1A415-3DA3-4731-98CD-B700F8DDFE18"
 		}
 	],
-"creatorBuild": "25813",
+"creatorBuild": "25849",
 "files": {
 	"\/404.php": {
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/..\/Wordpress Template Build\/404.php",
+		"oAP": "\/404.php",
 		"oF": 0
 		},
 	"\/css\/_reset.scss": {
@@ -23,7 +23,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/..\/Wordpress Template Build\/css\/_reset.css",
+		"oAP": "\/css\/_reset.css",
 		"oF": 0,
 		"oS": 3,
 		"uL": 1
@@ -36,7 +36,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/..\/Wordpress Template Build\/css\/_responsivity.css",
+		"oAP": "\/css\/_responsivity.css",
 		"oF": 0,
 		"oS": 3,
 		"uL": 1
@@ -49,7 +49,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/..\/Wordpress Template Build\/css\/_tools.css",
+		"oAP": "\/css\/_tools.css",
 		"oF": 0,
 		"oS": 3,
 		"uL": 1
@@ -60,7 +60,7 @@
 		"dP": 10,
 		"dS": 2,
 		"ft": 4,
-		"ma": 0,
+		"ma": 1,
 		"oA": 0,
 		"oAP": "\/style.css",
 		"oF": 2,
@@ -70,32 +70,32 @@
 	"\/custom-page.php": {
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/..\/Wordpress Template Build\/custom-page.php",
+		"oAP": "\/custom-page.php",
 		"oF": 0
 		},
 	"\/footer.php": {
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/..\/Wordpress Template Build\/footer.php",
+		"oAP": "\/footer.php",
 		"oF": 0
 		},
 	"\/functions.php": {
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/..\/Wordpress Template Build\/functions.php",
+		"oAP": "\/functions.php",
 		"oF": 0
 		},
 	"\/header.php": {
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/..\/Wordpress Template Build\/header.php",
+		"oAP": "\/header.php",
 		"oF": 0
 		},
 	"\/img\/svg-symbols.svg": {
 		"ft": 2097152,
 		"miP": 0,
 		"oA": 0,
-		"oAP": "\/..\/Wordpress Template Build\/img\/svg-symbols.svg",
+		"oAP": "\/img\/svg-symbols.svg",
 		"oF": 1,
 		"opt": 1,
 		"plM": 3758088159,
@@ -105,7 +105,7 @@
 		"ft": 2097152,
 		"miP": 0,
 		"oA": 1,
-		"oAP": "\/..\/Wordpress Template Build\/img\/svg\/icon-cross.svg",
+		"oAP": "\/img\/svg\/icon-cross.svg",
 		"oF": 0,
 		"opt": 1,
 		"plM": 3758088159,
@@ -115,7 +115,7 @@
 		"ft": 2097152,
 		"miP": 0,
 		"oA": 1,
-		"oAP": "\/..\/Wordpress Template Build\/img\/svg\/icon-email.svg",
+		"oAP": "\/img\/svg\/icon-email.svg",
 		"oF": 0,
 		"opt": 0,
 		"plM": 3758088159,
@@ -125,7 +125,7 @@
 		"ft": 2097152,
 		"miP": 0,
 		"oA": 1,
-		"oAP": "\/..\/Wordpress Template Build\/img\/svg\/icon-facebook.svg",
+		"oAP": "\/img\/svg\/icon-facebook.svg",
 		"oF": 0,
 		"opt": 0,
 		"plM": 3758088159,
@@ -135,7 +135,7 @@
 		"ft": 2097152,
 		"miP": 0,
 		"oA": 1,
-		"oAP": "\/..\/Wordpress Template Build\/img\/svg\/icon-phone.svg",
+		"oAP": "\/img\/svg\/icon-phone.svg",
 		"oF": 0,
 		"opt": 0,
 		"plM": 3758088159,
@@ -144,34 +144,49 @@
 	"\/inc\/class-tgm-plugin-activation.php": {
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/..\/Wordpress Template Build\/inc\/class-tgm-plugin-activation.php",
+		"oAP": "\/inc\/class-tgm-plugin-activation.php",
 		"oF": 0
 		},
 	"\/index.php": {
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/..\/Wordpress Template Build\/index.php",
+		"oAP": "\/index.php",
+		"oF": 0
+		},
+	"\/js\/scripts-min.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/js\/scripts-min-min.js",
+		"oF": 0,
+		"sC": 0,
+		"tS": 0
+		},
+	"\/js\/scripts-min.js.map": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/js\/scripts-min.js.map",
 		"oF": 0
 		},
 	"\/js\/scripts.js": {
 		"ft": 64,
 		"mi": 1,
 		"oA": 0,
-		"oAP": "\/..\/Wordpress Template Build\/js\/scripts-min.js",
+		"oAP": "\/js\/scripts-min.js",
 		"oF": 0,
 		"sC": 0,
 		"tS": 0
 		},
 	"\/node_modules": {
 		"ft": 65536,
-		"oA": 1,
-		"oAP": "\/..\/Wordpress Template Build\/node_modules",
-		"oF": 1
+		"oA": 2,
+		"oAP": "\/build\/node_modules",
+		"oF": 0
 		},
 	"\/package-min.json": {
 		"ft": 524288,
 		"oA": 0,
-		"oAP": "\/..\/Wordpress Template Build\/package-min-min.json",
+		"oAP": "\/package-min-min.json",
 		"oF": 0,
 		"oO": 0,
 		"oS": 1
@@ -179,21 +194,55 @@
 	"\/package.json": {
 		"ft": 524288,
 		"oA": 0,
-		"oAP": "\/..\/Wordpress Template Build\/package-min.json",
+		"oAP": "\/package-min.json",
 		"oF": 0,
 		"oO": 0,
 		"oS": 1
 		},
+	"\/README.md": {
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"eLB": 0,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 1,
+		"oAP": "\/README.html",
+		"oF": 0,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
 	"\/sidebar.php": {
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/..\/Wordpress Template Build\/sidebar.php",
+		"oAP": "\/sidebar.php",
+		"oF": 0
+		},
+	"\/style.css": {
+		"aP": 1,
+		"bl": 1,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/style-min.css",
+		"oF": 0,
+		"oS": 0
+		},
+	"\/style.css.map": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/style.css.map",
 		"oF": 0
 		},
 	"\/Tools\/.brackets.json": {
 		"ft": 524288,
 		"oA": 1,
-		"oAP": "\/..\/Wordpress Template Build\/Tools\/.brackets-min.json",
+		"oAP": "\/Tools\/.brackets-min.json",
 		"oF": 1,
 		"oO": 0,
 		"oS": 1
@@ -201,14 +250,14 @@
 	"\/Tools\/functions examples.php": {
 		"ft": 8192,
 		"oA": 1,
-		"oAP": "\/..\/Wordpress Template Build\/Tools\/functions examples.php",
+		"oAP": "\/Tools\/functions examples.php",
 		"oF": 1
 		},
 	"\/Tools\/JS Snippets\/Scroll Arrow Only If Hero Is Big Enough.js": {
 		"ft": 64,
 		"mi": 1,
 		"oA": 1,
-		"oAP": "\/..\/Wordpress Template Build\/Tools\/JS Snippets\/Scroll Arrow Only If Hero Is Big Enough-min.js",
+		"oAP": "\/Tools\/JS Snippets\/Scroll Arrow Only If Hero Is Big Enough-min.js",
 		"oF": 1,
 		"sC": 0,
 		"tS": 0
@@ -221,7 +270,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/..\/Wordpress Template Build\/Tools\/Style Snippets\/Contact Form 7.css",
+		"oAP": "\/Tools\/Style Snippets\/Contact Form 7.css",
 		"oF": 1,
 		"oS": 3,
 		"uL": 1
@@ -232,7 +281,7 @@
 		"ft": 16,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/..\/Wordpress Template Build\/Tools\/Style Snippets\/responsive-slides-min.css",
+		"oAP": "\/Tools\/Style Snippets\/responsive-slides-min.css",
 		"oF": 1,
 		"oS": 0
 		}
@@ -255,7 +304,7 @@
 	"displayValue": "Wordpress Template",
 	"displayValueWasSetByUser": 0,
 	"iconImageName": "brackets_orange",
-	"lastBuiltDate": 513885165
+	"lastBuiltDate": 514154079
 	},
 "projectSettings": {
 	"abortBuildOnError": 1,
@@ -510,8 +559,8 @@
 	"bowerSaveDevDependencies": 0,
 	"bowerUseExactVersion": 0,
 	"browserRefreshDelay": 0,
-	"buildFolderActive": 1,
-	"buildFolderName": "..\/Wordpress Template Build",
+	"buildFolderActive": 0,
+	"buildFolderName": "build",
 	"cleanBuild": 1,
 	"coffeeLintFlags2": {
 		"arrow_spacing": {
@@ -1036,7 +1085,7 @@
 			"optionString": ""
 			},
 		"no-extra-parens": {
-			"active": 1,
+			"active": 0,
 			"optionString": "'all', {'conditionalAssign': false, 'returnAssign': false, 'nestedBinaryExpressions': false, 'ignoreJSX': 'none'}"
 			},
 		"no-extra-semi": {
@@ -1056,7 +1105,7 @@
 			"optionString": ""
 			},
 		"no-global-assign": {
-			"active": 0,
+			"active": 1,
 			"optionString": "{'exceptions': []}"
 			},
 		"no-implicit-coercion": {
@@ -1264,7 +1313,7 @@
 			"optionString": "{'props': false}"
 			},
 		"no-self-compare": {
-			"active": 1,
+			"active": 0,
 			"optionString": ""
 			},
 		"no-sequences": {
@@ -1292,7 +1341,7 @@
 			"optionString": ""
 			},
 		"no-template-curly-in-string": {
-			"active": 1,
+			"active": 0,
 			"optionString": ""
 			},
 		"no-ternary": {
@@ -1348,12 +1397,12 @@
 			"optionString": ""
 			},
 		"no-unsafe-negation": {
-			"active": 0,
+			"active": 1,
 			"optionString": ""
 			},
 		"no-unused-expressions": {
 			"active": 0,
-			"optionString": "{'allowShortCircuit': false, 'allowTernary': false}"
+			"optionString": "{'allowShortCircuit': false, 'allowTernary': false, 'allowTaggedTemplates': false}"
 			},
 		"no-unused-labels": {
 			"active": 1,
@@ -1372,7 +1421,7 @@
 			"optionString": ""
 			},
 		"no-useless-computed-key": {
-			"active": 1,
+			"active": 0,
 			"optionString": ""
 			},
 		"no-useless-concat": {
@@ -1508,7 +1557,7 @@
 			"optionString": "{'require': {'FunctionDeclaration': true, 'MethodDefinition': false, 'ClassDeclaration': false, 'ArrowFunctionExpression': false}}"
 			},
 		"require-yield": {
-			"active": 0,
+			"active": 1,
 			"optionString": ""
 			},
 		"rest-spread-spacing": {
@@ -2126,7 +2175,7 @@
 		"autoOutputPathReplace2": "css",
 		"autoOutputPathStyle": 0,
 		"createSourceMap": 0,
-		"debugStyle": 2,
+		"debugStyle": 0,
 		"decimalPrecision": 10,
 		"outputStyle": 3,
 		"shouldRunAutoprefixer": 1,
@@ -2191,6 +2240,7 @@
 		},
 	"languageDefaultsUserDefined": [
 		],
+	"overrideExternalServerCSS": 0,
 	"previewPathAddition": "",
 	"skippedFoldersString": "log, _logs, logs, _cache, cache, \/storage\/framework\/sessions, node_modules",
 	"sourceFolderName": "source",
@@ -2362,7 +2412,7 @@
 			}
 		},
 	"uglifyReservedNamesString": "$",
-	"websiteRelativeRoot": "\/..\/Wordpress Template Build"
+	"websiteRelativeRoot": ""
 	},
 "settingsFileVersion": "3"
 }
